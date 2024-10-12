@@ -29,7 +29,7 @@ required to be set up in your configuration for this sensor to work.
           oversampling: 16x
         pressure:
           name: "Outside Pressure"
-        address: 0x77
+        address: 0x76
         update_interval: 60s
 
     # Example configuration entry SPI
